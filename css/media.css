@@ -1,0 +1,1029 @@
+/*---------------1740 px----------------------*/
+@media screen and (max-width: 1740px) {
+.mainmenu {
+	margin-left: 20px;
+}
+.logo {
+	background-size: auto;
+}
+.cart_search {
+	margin-left: 0;
+}
+.cart_search a {
+	margin-right: 10px;
+}
+.slider {
+	padding-bottom: 180px;
+}
+.slider > input + label {
+	top: 160px;
+}
+.mainmenu li {
+	margin-right: 20px;
+}
+.wrapper {
+	width: 1180px;
+}
+.portfolio {
+	width: 100%;
+}
+.headmenu {
+	padding-top: 40px;
+	margin-bottom: 200px;
+}
+.logo {
+	margin-left: 30px;
+}
+}
+/*---------------1220 px----------------------*/
+@media screen and (max-width: 1220px) {
+.wrapper {
+	width: 1000px;
+}
+.slider {
+	padding-bottom: 220px;
+}
+.headmenu {
+	padding-top: 40px;
+	margin-bottom: 150px;
+}
+.slider > input + label {
+	top: 190px;
+}
+.cart_search > form {
+	width: 250px;
+	height: 40px;
+}
+.cart_search {
+	display: flex;
+	position: relative;
+	width: 70px;
+	top: -30px;
+	right: 120px;
+}
+.cart_search a {
+	margin-left: 5px;
+}
+.cart_search form > input {
+	padding: 0 20px 0 20px;
+}
+.cart_search form > input:focus {
+	width: 250px;
+}
+::-webkit-input-placeholder {
+	font-size: 14px;
+}
+.text1 h3 {
+	font-size: 30px;
+	margin-bottom: 6px;
+}
+.text1 h2 {
+	font-size: 46px;
+	margin-bottom: 15px;
+}
+.text1 p {
+	font-size: 14px;
+	padding: 0 250px 0 250px;
+}
+.text1 a {
+	font-size: 12px;
+	line-height: 40px;
+	width: 150px;
+	height: 40px;
+}
+.web > .wrapper {
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+.design h3, .develop h3, .custom h3, .marketing h3 {
+	font-size: 20px;
+	line-height: 22px;
+}
+.design p, .develop p, .custom p, .marketing p {
+	font-size: 12px;
+	line-height: 1.714;
+}
+.ideas h2 {
+	font-size: 28px;
+	padding-top: 50px;
+}
+.ideas p {
+	font-size: 14px;
+	margin-top: 15px;
+	padding-left: 230px;
+	padding-right: 230px;
+	padding-bottom: 10px;
+}
+.portfolio {
+	background-size: 70%, 70%, 70%;
+}
+.reclame {
+	padding: 40px 0 40px 0;
+}
+.reclame > .wrapper h2 {
+	font-size: 24px;
+	line-height: 1.2;
+	margin-left: 20px;
+}
+.reclame > .wrapper p {
+	font-size: 14px;
+	margin-left: 20px;
+}
+.reclame > .wrapper > a.now {
+	width: 150px;
+	height: 40px;
+	font-size: 12px;
+	line-height: 40px;
+	margin-right: 20px;
+}
+.projects h3 {
+	font-size: 28px;
+	margin-top: 40px;
+	margin-bottom: 15px;
+}
+.projects p {
+	font-size: 14px;
+	padding: 0 200px 0 200px;
+	margin-bottom: 30px;
+}
+.pic_1, .pic_2, .pic_3, .pic_4, .pic_5, .pic_6 {
+	width: 310px;
+	height: 263px;
+}
+.pic_block2 {
+	margin-bottom: 40px;
+}
+.comment::before {
+	border: 22px solid transparent;
+	border-left-width: 22px;
+	border-right-width: 22px;
+	border-bottom-color: #fbfaf8;
+	left: 18px;
+	bottom: 40px;
+}
+.comment {
+	top: 199px;
+}
+.dark {
+	width: 310px;
+	height: 200px;
+}
+.comment h4 {
+	font-size: 16px;
+	padding: 10px 0 0 20px;
+}
+.comment p {
+	font-size: 12px;
+	padding: 2px 0 0 20px;
+}
+.load {
+	width: 150px;
+	height: 45px;
+	font-size: 12px;
+	line-height: 45px;
+}
+.projects {
+	margin-bottom: 40px;
+}
+.video h3 {
+	font-size: 28px;
+	margin-top: 250px;
+}
+.video p {
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	padding-left: 250px;
+    padding-right: 250px;
+}
+.video {
+	margin-bottom: 30px;
+}
+.excellent {
+	height: 500px;
+}
+.excellent > .wrapper {
+	background-size: contain;
+	background-position: bottom left;
+}
+.excellent-text h2 {
+	font-size: 28px;
+	margin-bottom: 10px;
+}
+.excellent-text p {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.excellent-text {
+	width: 550px;
+	padding-top: 130px;
+	margin-top: 0;
+}
+.detail {
+	font-size: 14px;
+	line-height: 20px;
+	margin-left: 30px;
+}
+.icons {
+	padding: 30px 0 30px 0;
+}
+.icons > .wrapper h3 {
+	font-size: 40px;
+	margin: 20px 0 10px 0;
+}
+.icons > .wrapper p {
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.post-all {
+	margin-bottom: 20px;
+}
+h4.pos-text1 {
+	font-size: 28px;
+	margin-top: 40px;
+}
+p.pos-text2 {
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.post-1, .post-2, .post-3 {
+	width: 300px;
+	height: 320px;
+}
+.dark1 {
+	width: 300px;
+	height: 178px;
+}
+.comment1 h5 {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.comment1 p {
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.comment1 {
+	top: 178px;
+	padding: 5px 20px 20px 20px;
+}
+.comment1 a {
+	font-size: 10px;
+}
+.comment1 a > i.fa-caret-right {
+	top: 1px;
+	left: 5px;
+}
+button.left, button.right {
+	margin-bottom: 30px;
+}
+.rek_link > .wrapper {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	align-items: center;
+}
+.posts_1 {
+	padding: 50px 0 50px 0;
+}
+p.ago {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	line-height: 15px;
+}
+.post1 p, .post2 p {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+}
+.mainmenu [type="checkbox"] {
+	display: none;
+}
+.mainmenu label.toggle_menu {
+	background: #998675;
+	display: none;
+	padding: 10px 20px 10px 40px;
+	text-transform: uppercase;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	border-radius: 5px;
+	border-bottom: 3px solid #736357;
+	cursor: pointer;
+	position: relative;
+	font-weight: 500;
+}
+.mainmenu label.toggle_menu .fa-bars {
+	position: absolute;
+	top: 10px;
+	left: 15px;
+	font-size: 18px;
+}
+/*--------------1060 px-----------------------*/
+@media screen and (max-width: 1060px) {
+.wrapper {
+	width: 850px;
+}
+.mainmenu ul {
+	display: none;
+	position: absolute;
+}
+.mainmenu {
+	overflow: hidden;
+	margin-top: 10px;
+}
+.mainmenu label.toggle_menu {
+	display: block;
+}
+.cart_search {
+	position: relative;
+	top: 4px;
+	left: 25px;
+}
+input.toggle_menu:checked + label.toggle_menu {
+	background-color: #ab9a8b;
+}
+input.toggle_menu:checked ~ ul {
+	display: block;
+}
+.mainmenu ul > li {
+	width: 150px;
+	height: 30px;
+	background-color: #998675;
+	text-align: center;
+	border-bottom: 1px solid white;
+	margin-right: 0;
+	position: relative;
+	z-index: 10;
+}
+.mainmenu ul > li:hover {
+	background-color: #ab9a8b;
+}
+.mainmenu ul > li a {
+	line-height: 30px;
+}
+.mainmenu ul > li a:hover {
+	color: #736357;
+}
+.web > .wrapper {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.design p, .develop p, .custom p, .marketing p {
+	padding: 0 10px 0 10px;
+}
+.design h3, .develop h3, .custom h3, .marketing h3 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.line {
+	width: 60px;
+	height: 3px;
+	margin-top: 20px;
+}
+.portfolio {
+	height: 380px;
+}
+.ideas p {
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.text1 p {
+	padding: 0 150px 0 150px;
+}
+.projects p {
+	padding: 0 150px 0 150px;
+	margin-bottom: 25px;
+}
+.pic_1, .pic_2, .pic_3, .pic_4, .pic_5, .pic_6 {
+	width: 270px;
+	height: 240px;
+}
+.comment::before {
+	left: 10px;
+	bottom: 38px;
+}
+.comment {
+	top: 173px;
+}
+.dark {
+	width: 270px;
+	height: 174px;
+}
+.comment h4 {
+	font-size: 16px;
+	padding: 10px 0 0 20px;
+}
+.comment p {
+	font-size: 12px;
+	padding: 2px 0 0 20px;
+}
+.pic_block1, .pic_block2 {
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.dark i {
+	margin-top: 80px;
+}
+.video {
+	padding-bottom: 130px;
+}
+.video p {
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.excellent-text {
+    width: 550px;
+    padding-top: 90px;
+    margin-top: 0;
+}
+.icon1 svg, .icon2 svg, .icon3 svg,
+.icon4 svg, .icon5 svg {
+	width: 40px;
+	height: 40px;
+}
+.icons {
+	padding: 25px 0 25px 0;
+}
+.icons > .wrapper h3 {
+	font-size: 36px;
+	margin: 15px 0 10px 0;
+}
+h4.pos-text1 {
+	font-size: 26px;
+	margin-top: 30px;
+}
+.post-all {
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.post-1, .post-2, .post-3 {
+	width: 270px;
+	height: 270px;
+}
+.dark1 {
+	width: 270px;
+	height: 160px;
+}
+.comment1 h5 {
+	font-size: 16px;
+	margin-bottom: 3px;
+}
+.comment1 p {
+	margin-bottom: 3px;
+}
+.comment1 {
+	top: 160px;
+	padding: 10px 20px 20px 15px;
+}
+.date span {
+	font-size: 18px;
+	line-height: 30px;
+}
+.post-1 time, .post-2 time, .post-3 time {
+	width: 40px;
+	height: 50px;
+	left: 10px;
+	top: 10px;
+}
+.date {
+	height: 28px;
+}
+.rek_link > .wrapper {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	align-items: center;
+}
+img[alt="link1"], img[alt="link2"], img[alt="link3"], img[alt="link4"] {
+	width: 80%;
+	padding-left: 15px;
+}
+.widget {
+	display: none;
+}
+.posts_1 {
+	padding: 30px 0 30px 0;
+}
+.foot > .wrapper {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+}
+/*--------------860 px-----------------------*/
+@media screen and (max-width: 860px) {
+.wrapper {
+	width: 540px;
+}
+.headmenu {
+	margin-bottom: 110px;
+}
+.slider {
+	padding-bottom: 130px;
+}
+.cart_search {
+	top: -40px;
+	left: -120px;
+}
+.text1 p {
+	padding: 0;
+	margin-bottom: 45px;
+}
+.slider > input + label {
+	top: 120px;
+}
+.text1 h3 {
+	font-size: 26px;
+	margin-bottom: 0;
+}
+.text1 h2 {
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+.design svg, .develop svg, .custom svg, .marketing svg {
+	width: 30px;
+	height: 30px;
+}
+.design h3, .develop h3, .custom h3, .marketing h3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+.develop .line {
+	margin-top: 22px;
+}
+.custom .line {
+	margin-top: 42px;
+}
+.marketing .line {
+	margin-top: 42px;
+}
+.develop, .custom, .marketing {
+	margin-top: 0;
+}
+.ideas h2 {
+	font-size: 20px;
+	padding-top: 30px;
+}
+.ideas p {
+	margin-top: 5px;
+	padding: 0;
+	font-size: 12px;
+}
+.portfolio {
+	height: 250px;
+}
+.reclame {
+	padding: 20px 0 20px 0;
+}
+.reclame > .wrapper h2 {
+	font-size: 20px;
+	line-height: 20px;
+	margin-left: 0;
+}
+.reclame > .wrapper p {
+	font-size: 10px;
+	margin-left: 0;
+}
+.reclame > .wrapper > a.now {
+	width: 100px;
+	height: 30px;
+	font-size: 10px;
+	line-height: 30px;
+	margin-right: 0;
+}
+.projects h3 {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.projects p {
+	padding: 0;
+	margin-bottom: 20px;
+	font-size: 12px;
+}
+.link {
+	width: 100%;
+}
+.link ul > li a {
+	padding: 0 15px 0 15px;
+	line-height: 1.4;
+}
+.pic_block1 {
+	margin-top: 25px;
+}
+.pic_1, .pic_2, .pic_4, .pic_5 {
+	margin-bottom: 20px;
+}
+.pic_1, .pic_2, .pic_3, .pic_4, .pic_5, .pic_6 {
+	width: 250px;
+	height: 215px;
+}
+.dark {
+	width: 250px;
+	height: 160px;
+}
+.comment {
+	top: 160px;
+}
+.comment h4 {
+	font-size: 14px;
+	padding: 10px 0 0 20px;
+}
+.comment::before {
+	bottom: 30px;
+}
+.comment p {
+	font-size: 10px;
+	padding: 2px 0 0 20px;
+	margin-bottom: 10px;
+}
+.video {
+	padding-bottom: 80px;
+	margin-bottom: 0;
+}
+.video h3 {
+	margin-top: 180px;
+}
+.play {
+	width: 80px;
+	height: 80px;
+	top: 150px;
+	background-size: 80%;
+}
+.video p {
+	margin-top: 5px;
+	padding: 0;
+}
+.excellent-text h2 {
+	font-size: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.excellent-text p {
+	font-size: 12px;
+	margin-bottom: 10px;
+	text-align: right;
+}
+.detail {
+	font-size: 10px;
+	line-height: 15px;
+	margin-left: 100px;
+}
+.excellent > .wrapper {
+	background-size: 40%;
+}
+.excellent-text {
+	width: 460px;
+	padding-top: 50px;
+}
+.icon1 svg, .icon2 svg, .icon3 svg, .icon4 svg, .icon5 svg {
+	width: 35px;
+	height: 35px;
+}
+.icons > .wrapper h3 {
+	font-size: 32px;
+	margin: 15px 0 10px 0;
+}
+.icons > .wrapper p {
+	font-size: 10px;
+}
+h4.pos-text1 {
+	font-size: 20px;
+	margin-top: 20px;
+}
+p.pos-text2 {
+	padding: 0;
+}
+.post-1, .post-2, .post-3 {
+	width: 250px;
+	height: 222px;
+}
+.post-1, .post-2 {
+	margin-bottom: 10px;
+}
+.dark1 {
+	width: 250px;
+	height: 150px;
+}
+.comment1 {
+	top: 149px;
+}
+.comment1 h5 {
+	font-size: 12px;
+}
+.comment1 p {
+	font-size: 10px;
+}
+.waxom {
+	background-size: auto;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.waxom p {
+	width: 200px;
+	padding-bottom: 15px;
+	font-size: 12px;
+}
+.waxom > a.more {
+	font-size: 12px;
+	line-height: 1.2;
+}
+.recent h3, .our_twitter h3, .widget h3 {
+	font-size: 20px;
+	line-height: 1;
+	padding-bottom: 30px;
+}
+.recent ul, .our_twitter ul {
+	margin-right: 20px;
+}
+.post1 p, .post2 p {
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+}
+.post1 p, .post2 p, .post3 p, .twit1 p, .twit2 p, .twit3 p {
+	font-size: 12px;
+	line-height: 1.2;
+}
+.faq li, .faq li > a {
+	font-size: 12px;
+	line-height: 1.538;
+}
+.copy {
+	margin-left: 20px;
+}
+.copy1, .market1 {
+	margin-right: 10px;
+	padding-right: 10px;
+}
+}
+/*--------------550 px-----------------------*/
+@media screen and (max-width: 550px) {
+.wrapper {
+	width: 430px;
+}
+.headmenu {
+	margin-bottom: 80px;
+}
+.slider {
+	padding-bottom: 80px;
+}
+.cart_search {
+	top: -40px;
+	left: -250px;
+}
+.logo {
+	background-size: 80%;
+}
+.text1 p {
+	margin-bottom: 35px;
+	font-size: 10px;
+}
+.slider > input + label {
+	top: 60px;
+	width: 7px;
+	height: 7px;
+	border-radius: 6px;
+	margin-right: 2px;
+}
+.text1 h3 {
+	font-size: 20px;
+}
+.text1 h2 {
+	font-size: 30px;
+}
+.text1 a {
+	font-size: 10px;
+	line-height: 25px;
+	width: 110px;
+	height: 25px;
+}
+.mainmenu label.toggle_menu {
+	padding: 8px 15px 8px 40px;
+	font-size: 14px;
+	border-radius: 3px;
+	border-bottom: 2px solid #736357;
+}
+.web > .wrapper {
+	flex-wrap: wrap;
+}
+.design p, .develop p, .custom p, .marketing p {
+	padding: 0 50px 0 50px;
+}
+.design, .develop, .custom, .marketing {
+	margin-bottom: 15px;
+}
+.develop .line, .custom .line, .marketing .line {
+	margin-top: 20px;
+}
+.reclame > .wrapper h2 {
+	font-size: 16px;
+	line-height: 18px;
+}
+.link ul {
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.link ul > li {
+	margin-bottom: 5px;
+}
+.portfolio {
+	height: 220px;
+}
+.load {
+	width: 120px;
+	height: 40px;
+	font-size: 12px;
+	line-height: 40px;
+}
+.video {
+	padding-bottom: 40px;
+}
+.video h3 {
+	margin-top: 140px;
+	font-size: 22px;
+}
+.video p {
+	font-size: 12px;
+}
+.play {
+	top: 120px;
+}
+.excellent-text {
+	width: 100%;
+	padding-top: 10px;
+	float: none;
+	margin-bottom: 20px;
+}
+.excellent-text p {
+	font-size: 11px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.excellent > .wrapper {
+	background-image: none;
+	background-size: auto;
+}
+.excellent {
+	height: 100%;
+}
+.detail {
+	margin-left: 50px;
+}
+.icons > .wrapper {
+	flex-wrap: wrap;
+}
+p.pos-text2 {
+	font-size: 12px;
+}
+.waxom {
+	background-size: 80%;
+}
+.waxom p {
+	width: 150px;
+	font-size: 10px;
+}
+.recent h3, .our_twitter h3, .widget h3 {
+	font-size: 16px;
+}
+.post1 p, .post2 p, .post3 p, .twit1 p, .twit2 p, .twit3 p {
+	font-size: 10px;
+	line-height: 1.2;
+}
+.post1 span, .post2 span, .post3 span {
+	font-size: 10px;
+	line-height: 12px;
+}
+.twit1 span, .twit2 span {
+	font-size: 12px;
+	line-height: 1.2;
+}
+.twit3 span {
+	font-size: 12px;
+	line-height: 1.2;
+}
+.faq li, .faq li > a {
+	font-size: 10px;
+	line-height: 1.2;
+}
+.market1 a, .market a {
+	font-size: 10px;
+	line-height: 1.2;
+}
+.market1 {
+	text-align: right;
+}
+.foot > .wrapper {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.waxom > a.more {
+	font-size: 10px;
+	line-height: 1.1;
+}
+/*--------------435 px-----------------------*/
+@media screen and (max-width: 435px) {
+.wrapper {
+	width: 320px;
+}
+.cart_search {
+	top: -40px;
+	left: -190px;
+}
+.mainmenu label.toggle_menu {
+	padding: 6px 12px 6px 30px;
+	font-size: 12px;
+}
+.mainmenu {
+	margin-top: 5px;
+}
+.logo {
+	width: 130px;
+	height: 56px;
+	background-size: 100%;
+}
+.mainmenu label.toggle_menu .fa-bars {
+	top: 5px;
+	left: 13px;
+	font-size: 16px;
+}
+.text1 h2 {
+	font-size: 26px;
+}
+.web > .wrapper {
+	margin-bottom: 20px;
+}
+.portfolio {
+	height: 150px;
+}
+.reclame > .wrapper h2 {
+	font-size: 14px;
+	line-height: 16px;
+}
+.reclame > .wrapper p {
+	font-size: 9px;
+	line-height: 12px;
+}
+.reclame > .wrapper > a.now {
+	width: 85px;
+	height: 28px;
+	font-size: 9px;
+	line-height: 28px;
+}
+.link ul > li a {
+	padding: 0 10px 0 10px;
+	line-height: 1.2;
+	font-size: 12px;
+}
+.pic_block2 {
+	margin-bottom: 20px;
+}
+.projects {
+	margin-bottom: 20px;
+}
+.icon1, .icon2, .icon3, .icon4, .icon5 {
+	margin-bottom: 10px;
+}
+.icons {
+	padding: 20px 0 20px 0;
+}
+.rek_link > .wrapper {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.waxom p {
+	width: 120px;
+	padding-bottom: 0;
+	padding-top: 60px;
+	font-size: 9px;
+}
+.waxom {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.recent h3, .our_twitter h3, .widget h3 {
+	font-size: 12px;
+	padding-bottom: 15px;
+}
+.post1 p, .post2 p, .post3 p, .twit1 p, .twit2 p, .twit3 p {
+	font-size: 9px;
+	line-height: 1.1;
+}
+.post1 span, .post2 span, .post3 span {
+	font-size: 9px;
+	line-height: 10px;
+}
+.twit1 span, .twit2 span {
+	font-size: 10px;
+	line-height: 1.1;
+}
+.twit3 span {
+	font-size: 10px;
+	line-height: 1.1;
+}
+.market1 a, .market a {
+	font-size: 9px;
+	line-height: 1.1;
+}
+.copy1, .market1 {
+	margin-right: 5px;
+	padding-right: 5px;
+}
